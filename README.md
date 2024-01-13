@@ -1,16 +1,6 @@
-# bmi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-01-13 at 23 24 17_0c86c9c7](https://github.com/maherade/bmi/assets/74119717/f2c1a69e-df54-4786-88eb-403cb6c8ad75)
+![WhatsApp Image 2024-01-13 at 23 24 18_adb7c5d5](https://github.com/maherade/bmi/assets/74119717/41c00399-1807-48c4-84ac-420cb124c741)
+![WhatsApp Image 2024-01-13 at 23 24 19_f45b22e4](https://github.com/maherade/bmi/assets/74119717/44e22dc5-fe16-449d-9fe6-cd3c1efbd6dd)
+![WhatsApp Image 2024-01-13 at 23 24 18_90f00014](https://github.com/maherade/bmi/assets/74119717/8d7a8396-2d63-4223-8718-24cf53610706)
+![WhatsApp Image 2024-01-13 at 23 24 18_9cab7cb1](https://github.com/maherade/bmi/assets/74119717/bad9422d-b71a-4d7a-ae62-59616b5f1bc8)
+![WhatsApp Image 2024-01-13 at 23 24 19_daaad816](https://github.com/maherade/bmi/assets/74119717/4bbd53d6-a760-4500-9b57-42ce5709b81f)
